@@ -1,0 +1,10 @@
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza1\Brute_Force_Attack\Brute_Force_Attack\bin\Debug\Brute_Force_Attack.exe.config
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza1\Brute_Force_Attack\Brute_Force_Attack\bin\Debug\Brute_Force_Attack.exe
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza1\Brute_Force_Attack\Brute_Force_Attack\bin\Debug\Brute_Force_Attack.pdb
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza1\Brute_Force_Attack\Brute_Force_Attack\obj\Debug\Brute_Force_Attack.Form1.resources
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza1\Brute_Force_Attack\Brute_Force_Attack\obj\Debug\Brute_Force_Attack.Properties.Resources.resources
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza1\Brute_Force_Attack\Brute_Force_Attack\obj\Debug\Brute_Force_Attack.csproj.GenerateResource.Cache
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza1\Brute_Force_Attack\Brute_Force_Attack\obj\Debug\Brute_Force_Attack.csproj.CoreCompileInputs.cache
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza1\Brute_Force_Attack\Brute_Force_Attack\obj\Debug\Brute_Force_Attack.exe
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza1\Brute_Force_Attack\Brute_Force_Attack\obj\Debug\Brute_Force_Attack.pdb
+C:\Users\LED-COM\Desktop\Viti II\Semestri IV\Siguria e te dhenave\Projekti\Faza1\Brute_Force_Attack\Brute_Force_Attack\obj\Debug\Brute_Force_Attack.csprojResolveAssemblyReference.cache
